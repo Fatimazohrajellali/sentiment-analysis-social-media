@@ -2,7 +2,7 @@
 # 💬 Analyse de Sentiments sur les Réseaux Sociaux
 
 ## 📌 Objectif du projet
-Ce projet vise à extraire, nettoyer, analyser et classifier les commentaires issus d’**Instagram** et de **YouTube** selon leur tonalité (**positive**, **négative** ou **neutre**) en utilisant des techniques de **traitement automatique du langage naturel (TALN)** et de **machine learning**. Une application **Streamlit** permet une visualisation et une interaction faciles avec les résultats.
+Ce projet vise à extraire, nettoyer, analyser et classifier les commentaires issus d’**Instagram** et de **YouTube** selon leur tonalité (**positive**, **négative** ou **neutre**) en utilisant des techniques de **traitement automatique du langage naturel ** et de **machine learning**. Une application **Streamlit** permet une visualisation et une interaction faciles avec les résultats.
 
 ---
 
