@@ -44,6 +44,8 @@ Matrice de confusion
 auc-scor 
 ##### 5.Déploiement avec Streamlit 
 Application simple et interactive  
+
+
 ###### 6.Technologies utilisées
  Python
 
@@ -56,7 +58,10 @@ Streamlit
 Selenium
 
 YouTube Data API v3 
-####### 7.Résultats attendus 
+
+
+
+7.Résultats attendus 
 Analyse automatique de sentiments sur plusieurs sources sociales
 
 Interface interactive pour les utilisateurs
